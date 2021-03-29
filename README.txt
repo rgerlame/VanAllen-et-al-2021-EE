@@ -9,3 +9,5 @@ Notes:
 -note that regenerating plots or summary statistics using either script leads to minor deviances in outcomes, owning to the stochastic nature of our environmental sampling
 
 -figures presented in the manuscript were based on figures generated using this code, finished in Affinity Designer to combine plots as panels and enhance the aesthetics
+
+-there were too many plots for GitHub to house, but all can be recreated by re-running the code
